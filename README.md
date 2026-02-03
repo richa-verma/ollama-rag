@@ -121,7 +121,7 @@ curl -X POST http://127.0.0.1:8000/query \
 
 ---
 
-## 🧪 Example Questions
+##  Example Questions
 
 - Which assets show abnormal energy usage?
 - What does the manual recommend for overheating equipment?
@@ -129,19 +129,17 @@ curl -X POST http://127.0.0.1:8000/query \
 
 ---
 
-## 🎯 Why This Project
+## About This Project
 
 This project demonstrates:
 
 - Practical RAG for enterprise use cases
 - Integration of structured and unstructured data
 - Local LLM deployment without external APIs
-- Production-style API design
-- Foundations for AWS/SageMaker deployment
 
 ---
 
-## 🧭 Future Improvements
+##  Future Improvements
 
 - LangChain/LangGraph orchestration
 - MLflow/LangSmith observability
@@ -149,10 +147,3 @@ This project demonstrates:
 - Deployment on AWS EC2/S3
 - Query caching and cost optimization
 
----
-
-## 👩‍💻 Author
-
-Richa Verma  
-Applied AI Scientist | PhD IIT Madras  
-Focus: LLM post-training, RAG systems, and ML deployment
