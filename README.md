@@ -147,3 +147,10 @@ This project demonstrates:
 - Deployment on AWS EC2/S3
 - Query caching and cost optimization
 
+## Demo
+
+### API Running
+![API](demo_api.png)
+
+### Example Response
+![Response](demo_response.png)
