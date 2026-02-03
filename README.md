@@ -150,7 +150,7 @@ This project demonstrates:
 ## Demo
 
 ### API Running
-![API](demo_api.png)
+![API](Capture.png)
 
 ### Example Response
-![Response](demo_response.png)
+![Response](Capture2.png)
